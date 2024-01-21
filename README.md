@@ -1,0 +1,1 @@
+# mediocre-ransomware-python-script
